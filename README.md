@@ -1,0 +1,2 @@
+- https://github.com/lightbend/migration-manager/issues/225
+- https://travis-ci.org/xuwei-k/mima-trait-extends-class/builds/395820120
